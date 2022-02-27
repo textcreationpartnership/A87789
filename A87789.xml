@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The sufferers legacy to surviving sinners[;] or, Edmund Kirk's dying advice to young men vvrote by his own hand in Newgate, and delivered to his friend with a desire the same might be published, on Friday the 11th of June, 1684. Being the day on which he was executed at Tyburn, for murthering his wife.</title>
+            <author>Kirk, Edmund, d. 1684.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87789</idno>
+            <idno type="STC">Wing K625</idno>
+            <idno type="STC">ESTC R230361</idno>
+            <idno type="EEBO-CITATION">99896261</idno>
+            <idno type="PROQUEST">99896261</idno>
+            <idno type="VID">154018</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87789)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154018)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The sufferers legacy to surviving sinners[;] or, Edmund Kirk's dying advice to young men vvrote by his own hand in Newgate, and delivered to his friend with a desire the same might be published, on Friday the 11th of June, 1684. Being the day on which he was executed at Tyburn, for murthering his wife.</title>
+                  <author>Kirk, Edmund, d. 1684.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank)   </extent>
+               <publicationStmt>
+                  <publisher>printed by Geo. Croom, in Thames-street over against Baynard's Castle,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In three columns.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Kirk, --  Mrs., d. 1684 --  Early works to 1800.</term>
+               <term>Kirk, Edmund, d. 1684 --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Murder --  England --  London --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:154018:1"/>
+            <!-- PDF PAGE 50 -->
+            <head>THE Sufferers LEGACY to Surviving Sinners OR, Edmund Kirk's Dying Advice to Young Men, VVrote by his own Hand in <hi>Newgate,</hi> and delivered to his Friend with a deſire the ſame might be Publiſhed, on <hi>Friday</hi> the 11th of <hi>June,</hi> 1684. Being the day on which he was <hi>Executed</hi> at <hi>Tyburn,</hi> for <hi>Murthering</hi> his <hi>Wife.</hi>
+            </head>
+            <opener>
+               <salute>Dear Country Men,</salute>
+            </opener>
+            <p>I Cannot but be very ſenſible under the condition into which my Crimes have juſtly involved me, how little I deſerve your pity. But yet as I am now come to the laſt period of my Life, and going before another Tribunal to anſwer for what I have here don amiſs, before the great Judge of <hi>Heaven</hi> and Earth, I hope you'l ſo far lay by your juſt animoſities againſt me, as to give me a hearing, nor can I think of any way ſo proper to improve the few Minutes I have yet by the mercy of the Almighty ſpared me, as in ſetting down the ſteps and degrees by which iniquity hath taken hold of me: that the ſad fate I am now to ſuffer, as the due and regular Conſequence thereof, may be a warning to others; not only, to avoid ſuch groſs and heinous Crimes, for which I now ſtand Con<g ref="char:EOLhyphen"/>demned, but alſo thoſe leſſer and more remote Evils which were the forerunners hereunto.</p>
+            <p>
+               <hi>Let him that ſtands take heed leaſt he Falls,</hi> the beſt do need this Caution, and had I not thought my ſelf two ſecure and truſted to my own ſtrength, more then the grace and aſſi<g ref="char:EOLhyphen"/>ſtance of the Almighty, this Condition had never been mine. I thank God I was born of good Parents, whoſe kind in<g ref="char:EOLhyphen"/>ſtructions and Pious Counſel I rebelliouſly neglected: Which neglect, as I am in the firſt place humbly to beg God and their Pardons for, ſo muſt I acknowledge that I firmly believe the ſame, to have a great influence on my preſent fate; for as the <hi>Command</hi> hath ſaid <hi>Honour thy Father and Mother that thy days may be long in the Land which the Lord thy God hath given thee.</hi> So, I cannot but Judge that the ſhortning of mine, hath been in ſome Degree or Meaſure for this my Crime, nor is it leſs than the greateſt aggravation of what I am to ſuffer, next to that of offending my God, that in this ſcandalous and Ignominious Death, I am juſtly Condemned unto, I have brought ſhame upon my Family and doubled the pains on my Mother that bore me; this tho it was the Sin of my Youth, yet where I began to Tranſgreſs, I thought fit to Confeſs. Therefore <hi>Young-Men Young-Men!</hi> as ye love your Immortal Souls, and expect to live hap<g ref="char:EOLhyphen"/>pily here, and enjoy Everlaſting Bliſs hereafter, be not Diſobedient to your Parents, but learn by my Example to avoid this Crime; which was the beginning of thoſe many, I have been ſince Guilty of.</p>
+            <p>In the next place, I would uſe the advice of <hi>Solomon,</hi> in the 12th. of <hi>Eccle.</hi> and the 11th. Verſe, <hi>remember now thy <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eator in the Dayes of thy Youth, while the Evil Days come <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ot, nor the Years draw nigh; wherein thou ſhalt ſay I have no Pleaſure in them.</hi>
+            </p>
+            <p>With me alas! the <hi>now</hi> is almoſt paſt over; wherein I ought to have remembred my <hi>Creator,</hi> and the hours are upon me, in which I have no Pleaſure, no Comfort or Content, in the revolution of my former miſpence of thoſe Seaſons, and Opportunities that God gave me, but a ſad and Dole<g ref="char:EOLhyphen"/>ful remembrance how often I have refuſed the offers of Grace; and deſpitefully rejected the motions of God's Holy Spirit, which Day by Day was as a Remembrancer under my Pillow, to rouſe and ſtir me up from a Careleſs and Sleepy Security in the ſtate of Wickedneſs and Sen<g ref="char:EOLhyphen"/>ſuality which I then lay. But all in vain: Sin had Poſ<g ref="char:EOLhyphen"/>ſeſſion of me; and with her inticeing Dalliances and Be<g ref="char:EOLhyphen"/>witching Allurements, (which were then as a ſweet and grateful Morſel in my Mouth, but now as bitter as the pangs of Death it Self) Betrayed me, and Hurried me from one Degree of Bad to another, till I had accompliſhed the laſt courſe of Iniquity, for which I now Groan.</p>
+            <p>But tho God's juſt Judgment hath deprived me of my Opportunity to Serve him as I ought; and left me but a few Minutes to make my Peace with his offended Majeſty: yet to you that ſurvive a Day, and Time is offer'd, if you improve it, Your <hi>now,</hi> is at preſent: but how long it may laſt, before the Night cometh upon you, wherein you can do no Work; is in the Breaſt alone of God Almighty, who will not be Delayed or put off, when the World and the <hi>Devil</hi> hath had the firſt and beſt of your Youth and Strength, with the Lees and remainders of old Age and Impotence. It is not enough to give over Sin, when old Years incapacitate thee for commiſſion thereof: this thou oweſt to thy Imbe<g ref="char:EOLhyphen"/>cility and Weakneſs, and canſt not diſcern whether 'tis thy will or want of Power that makes thee then leave off: 'tis in the midſt of thy Youth, when thy Blood Boyls, and thy Jovial Spirits are in Fermentation; that thou muſt put a ſtop to thy Carieres of Sin and Vanity, and ſeek and ſerve thy Creator.</p>
+            <p>Had I taken this Advice, I had never left my God; and conſequently had never been left by him: but ſo it is, that the great Deceiver of Souls, if he can but make us put off, or quench our Young Deſires to the Things of God and our own Souls; in which there is only true and laſting Pleaſure to be obtained: he lays before us, in all her Gaudy Embel<g ref="char:EOLhyphen"/>liſhments, and enticeing Braveries, the Luſt and Vanities of this naither World: with which we are as it were Spirited and Stolen away from the Land of true Enjoyment, to drudge in the Mines of Slavery and Infelicity: and yet as if there were no better Life, we go on Contentedly, and like Born Bond-ſlaves ſing at the Oar, and think our ſelves Happy.</p>
+            <p>But dear Country-Men, look to it be times, and let my Fate be your Example. Time was when I had as great a delight in Vanity, as the moſt Debauched amongſt you The Day was loſt in my apprehenſion, in which I met no Jovial Companion to Drink or Carouſe away my Hours; the Night miſſpent, that was not Improved in the Embraces and Dalliances of ſome Dalilah. The Sentence came dul<g ref="char:EOLhyphen"/>ly and inſipidly from my Lips that was not Graced with an Oath; and I looked on my ſelf with ſhame when I let ſlip an Injury without a Revenge. But could you ſtand in my Place; and feel the Pangs that I bare; or hear the Re<g ref="char:EOLhyphen"/>bukes that my Conſcience gives me: You would ſay as I do, that if I had ten Thouſand Worlds at my diſpoſal, I would give them all for a quiet Conſcience, and a ſight of Forgiveneſs with God Almighty, through the Blood of my dear Redeemer <hi>Christ Jeſus.</hi> You would then ſay that the Pleaſures of Sin were as <hi>Thorns</hi> and <hi>Briers</hi> in your Sides: the Debauches and Exceſs of Company, the worſt of all Pains and Trouble: the Embraces of your Beloved and Endeared Harlots Vanity and Vexation of Spirit: your Oaths and Exceſſes a Fighting a gainſt the Almighty, and Contending with Omnipotence, and the love of Revenge: the ſeeds of Murder. think of this at preſent, and ſhun my Fate:</p>
+            <p>For had it been formerly told me, I ſhould ever have come to this End, or have done that crying Sin of Mur<g ref="char:EOLhyphen"/>der; for which I juſtly ſtand Condemned: I ſhould certain<g ref="char:EOLhyphen"/>ly have anſwered in the Words of <hi>Hazael,</hi> to the Prophet <hi>Eliſha,</hi> when he inquired of him the reaſon of his Weeping, <hi>Becauſe</hi> ſayeth the Prophet, <hi>I know the Evil that thou ſhalt do unto the Children of</hi> Iſrael: <hi>for their ſtrong Cities ſhalt thou ſet on Fire; and their</hi> Young-Men <hi>ſhalt thou ſlay with the Sword; and ſhalt daſh their Infants againſt the Stones; and rent in Peices their Women with-Child.</hi> To which <hi>Hazael</hi> replied, <hi>what is thy Ser<g ref="char:EOLhyphen"/>vant a Dog, that I ſhould do this great Thing:</hi> yet all this, was afterwards Accompliſhed by him; and in like manner, gi<g ref="char:EOLhyphen"/>ving way to the beginnings of Vice, have I run this Courſe, till my guilty Hands were all over Imbrued in Innocent Blood: And juſtly therefore may I cry out and exclaim againſt my ſelf, that I am now worſe than the Brute that Periſheth; and I have nothing of Cleanlineſs or Humanity about me. But Oh! Lord my God look down upon me, and <hi>Rebuke me not in thy Anger; neither Chaſtiſe in thy Wrath: for thine Ar<g ref="char:EOLhyphen"/>rows have light upon me, and thy Hand lieth upon me; there is no<g ref="char:EOLhyphen"/>thing Sound in my Fleſh, becauſe of thy great anger; neither is there Reſt in my Bones, becauſe of my Sin; for mine Iniquities are gon over my Head: and as a weighty Burthen they are too heavy for me. My Bones are Putrified and Corrupt becauſe of my Fooliſh<g ref="char:EOLhyphen"/>neſs. My Eyes are full of Burning, I roar for very Grief of my Heart.</hi> But <hi>O Lord I power mine whole deſire before thee; and my ſighing is not Hid from thee.</hi> It may be now expected that I ſhould give ſome account what were the Reaſons and Motives that Inſtigated me to this Crime. But alas! when I conſider the ſlender Inducements I had thereunto, I muſt only clap my Hand upon my Breaſt, and confeſs it was the Evil Counſel<g ref="char:EOLhyphen"/>lor within me, my own vile and Corrupted Heart, that agreed with the Seducements of <hi>Satan,</hi> to bring this Tra<g ref="char:EOLhyphen"/>gedy to an Accompliſhment.</p>
+            <p>What was the firſt chief cauſe that was the occaſion of my Diſagreement with my Wife, was her Humour, (which I could now wiſh I had complied with; it being as I really believe for my Good) to follow me from place to place, and hinder my aſſociating my ſelf with Lewd and De<g ref="char:EOLhyphen"/>bauched Company: which Diſagreement, tho at firſt it was no more than as a ſmall Spark, yet by degrees, the ſame was blown up to ſo great a Flame of Diſſention, that the Devil told me, no leſs than her Innocent Blood, could give me a proper Satisfaction for: and upon this, it was that I contrived and perpetrated this Horrid and abomi<g ref="char:EOLhyphen"/>nable Fact, for which I now Suffer a greater load of Grief than if Rocks or Mountains overwhelmed me: and had not God of his Mercy, caſt in ſome Beams of his Favour upon me, to ſupport me in this my Doleful Impriſonment; I had long ere this ſunk under the weight thereof. Nor can I but obſerve how juſt the Almighty hath been in my Pun<g ref="char:EOLhyphen"/>niſhment, in leaving me to commit this cruel and unna<g ref="char:EOLhyphen"/>tural Sin, on that very Day which I had ſo often abuſed; not only in the neglect of thoſe Ordinances and Aſſemblies which I ought to have followed and frequented; but in the Commiſſions of thoſe Exceſſes, which at other times my Buſineſs and Imployment in the World, never afforded me ſo great a leiſure for. Whence I would beg and entreat in the Words of a Dying Man, who ſtands within the proſpect of Eternity, all thoſe that are my Acquaintance, and others that value their own Souls, that they would re<g ref="char:EOLhyphen"/>member to <hi>keep Holy the Sabath Day:</hi> for God hath command<g ref="char:EOLhyphen"/>ed it, and he is both a Jealous and a good God: <hi>and as he vi<g ref="char:EOLhyphen"/>ſiteth the Iniquity of the Fathers upon the Children unto the third and fourth Generation of them that hate him; ſo he ſhews Mercy unto thouſands, of them that love him, and keep his Commandments.</hi> And believe me dear Friends, what ever the <hi>Devil</hi> may Suggeſt unto you at preſent, hele change his note, (as he hath done with me) when you come ſo near Death as I am: thoſe Sins which he once told me were ſcarce to be obſerved, he now aggravates with the greateſt loads of Aſperſion: inſomuch, that were it not for the ſight of my Saviour, who Dyed and Suſſered for me; I ſhould wiſh that a Mill-ſtone were hung about my Neck, and the Seas Bottom was my Eternal Grave: but in him is my Truſt, in him is my Hope, and thro him I am willing to taſt the bitter Cup prepared for me. In which Faith the Lord preſerve me, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>From NEWGATE <date>July, 11th. 1684.</date>
+               </dateline>
+               <signed>Edmund Kirk.</signed>
+            </closer>
+         </div>
+         <div type="prayer">
+            <head>His PRAYER.</head>
+            <p>MOST Gracious Merciful and Eternal Lord God, thy poor Sinful and Condemned Creature is here approached the Throne of thy Mercy, Confeſſing, that as I have been a great and Heinous Sinner before thee, ſo nothing leſs than the In<g ref="char:EOLhyphen"/>finite Mercy of thy Almightineſs it Self can ever Pardon me. But thou, O Lord, art a God of Mercy, a God of Love and free Grace; and when Sinners approach unto thee, tho their Crimes be as Scarlet, thou canſt make them as white as <hi>Snow,</hi> and haſt pro<g ref="char:EOLhyphen"/>miſed ſo to do: Therefore Good and Gracious Lord, under the Com<g ref="char:EOLhyphen"/>fort and ſenſe of that Promiſe, I caſt my ſelf down before thee, Be<g ref="char:EOLhyphen"/>ſeeching that thou wouldeſt waſh and Cleanſe my blotted and Le<g ref="char:EOLhyphen"/>prous Soul, in the Blood of my Saviour and Redeemer Christ Jeſus; O Lord I am Defiled; But he is Clean, I am a Sinner, a great and crying Sinner; But in him was no Guile found. I have offended thee; But he Sufferr'd for me. I have been a Mur<g ref="char:EOLhyphen"/>derer; But he was Murdered for the ſake of Sinners, amongſt whom I am Chief. Lay therefore the burthen of my Sins upon the Croſs of my Saviour, and let them not riſe up in Judgment a<g ref="char:EOLhyphen"/>gainſt me, at ſuch time as I approach thy Tribunal: It is but a ſhort time, and the Day will be here, a few Minutes that I have to Live; the Sands of my Life are near Waſted, and I muſt take a farewell of this World, in the midſt of Health and Strength, and this through my own Crimes; ſo that I may charge my own as well as her Blood, which I wickedly and Murtherouſly ſhed, at my own Door. For which Crime, as I am juſtly made an Example to all the World, in a ſhameful and Ignominious Death. So, O Lord, let this my Fate, deter and warn others from thoſe Courſes that lead thereunto, that no other Perſon may ever fall into that Snare that I am Entangled in, but that my Sufferings may be as a Sea-Mark to others to avoid thoſe Shelves and Sands I am now Sunk into. But, do thou, O Lord, Forgive me, do thou, O Lord, receive me to thy Self, when my Soul and Body ſhake Hands each of the other, that I may dwell Eternally with thee in Everlaſting Bliſs. All which I humbly beg for the Sake and through the Me<g ref="char:EOLhyphen"/>diation of Christ Jeſus. To whom, with thee and thy Holy Spirit be aſcribed all Honour, Power and Glory, now and for evermore</p>
+            <closer>Amen.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>Geo. Croom,</hi> in <hi>Thames-ſtreet</hi> over againſt <hi>Baynard</hi>'s <hi>Caſtle.</hi> 1684.</p>
+            <pb facs="tcp:154018:2"/>
+            <!-- PDF PAGE 51 -->
+         </div>
+      </back>
+   </text>
+</TEI>
